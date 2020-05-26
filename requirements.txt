@@ -1,0 +1,6 @@
+numpy
+matplotlib
+keras
+opencv-python
+tensorflow-gpu==1.13.1
+imageai
