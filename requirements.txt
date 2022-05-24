@@ -2,5 +2,5 @@ numpy
 matplotlib
 keras
 opencv-python
-tensorflow-gpu==1.13.1
+tensorflow-gpu==2.6.4
 imageai
